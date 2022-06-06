@@ -1,0 +1,11 @@
+Change Log
+===============
+
+
+0.0.2 (15.05.2022)
+--------------------
+-Added text message on "hello" function
+
+0.0.1 (15.05.2022)
+--------------------
+-First Release
